@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently trying to enhance my AI engineering skills through contributing to high-quality open-source projects.
+I'm currently enhancing my AI engineering skills by contributing to high-quality open-source projects!
 Appreciate your support!!
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-❤️-ea4aaa?style=flat&logo=github-sponsors)](https://github.com/sponsors/AmyTao)
