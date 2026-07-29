@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 I'm currently enhancing my AI engineering skills by contributing to high-quality open-source projects!
 
-I'm always at the [Sharks Ice](https://www.sharksiceatsanjose.com/) on weekends.
+If I’m not here, I’m probably at one of the ice rinks in the Bay Area. ⛸️🪽
+I love figure skating since I was 14, and Yuna Kim will always be my role model!
